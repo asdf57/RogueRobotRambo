@@ -29,7 +29,7 @@ Testing/Deploying
 
 Changing the Codebase
 1. Create or sign into a GitHub account.
-2. Clone our game repo at https://github.com/Kdhngoa/rogue-robot-rambo onto your local machine. Either ssh or https is fine.
+2. Clone our game repo from this repository onto your local machine. Either ssh or https is fine.
 3. Open the local repo with your desired text editor.
 4. All the modules are in the src folder and the sounds, sprites, backgrounds are in the res folder.
 5. Read the internal documentations and follow guidelines if you want to contribute and make technical changes.
